@@ -1,2 +1,2 @@
 # libremago
-LibreMago is Php Library.
+LibreMago v1.1 - LibreMago is Php Library.
