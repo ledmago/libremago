@@ -32,6 +32,10 @@ Hi Coders and Developpers. if use libremago, you can develop easily.
 
 > > > > > $database_mago->data_update("table_name","ad='firatimben'","id='1'");
 
+###Get Count Of Data : 
+
+> > > > > $database_mago->data_count("table_name","id='1'");
+
 ###Control The field from database : 
 
 > > > > > $user_mago->field_control("table_name","id='1'","col_name","firatdogan");
